@@ -8,7 +8,7 @@ I am currently on a gap year, strategically dedicating my time to mastering back
 
 ### 🛠 Technical Toolkit
 * **Core Skills:** Data Engineering, Backend Development, Systems Architecture
-* **Languages & Tech:** Python (Primary), SQL
+* **Languages & Tech:** Python (Primary), SQL, FAST API
 * **Current Focus:** Building data-driven scripts, automating workflows, and learning how to secure data pipelines.
 
 ### 🚀 Gap Year Focus
