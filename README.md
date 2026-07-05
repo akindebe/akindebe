@@ -1,8 +1,8 @@
 # Hi there! I'm Akin Debebe Gebremeskel 👋
 
-**Aspiring Data & Cybersecurity Engineer | Building secure systems and data pipelines to drive business efficiency.**
+**Aspiring Data & Cybersecurity Engineer | Building secure systems and data pipelines to drive business and healthcare efficiency.**
 
-I am currently on a gap year, strategically dedicating my time to mastering backend engineering, data systems, and the intersection of AI and business value. My goal is to design scalable, secure, and intelligent systems that solve real-world problems.
+I am currently on my second gap year, strategically dedicating my time to mastering backend engineering, data systems, and the intersection of AI and business value. My goal is to design scalable, secure, and intelligent systems that close real business and healthcare gaps.
 
 ---
 
